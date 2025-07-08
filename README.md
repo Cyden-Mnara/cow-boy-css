@@ -138,6 +138,6 @@ Just add the prefix before any utility class to make it responsive at the given 
 
 "Wrangle your styles, code with grit. No compilers, no configs—just cowboy CSS magic."
 
-## Lisence:
+## Lisense:
 
 MIT License — Free to use, modify, and ride into the sunset.
