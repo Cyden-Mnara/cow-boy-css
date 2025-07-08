@@ -1,12 +1,12 @@
 :root {
-  /* 🎨 Colors */
+  /* Colors */
   --color-primary: #0f172a;
   --color-secondary: #64748b;
   --color-white: #ffffff;
   --color-black: #111827;
   --color-background: #f9fafb;
 
-  /* 📐 Spacing */
+  /* Spacing */
   --space-1: 0.25rem;
   --space-2: 0.5rem;
   --space-4: 1rem;
@@ -14,7 +14,7 @@
   --space-8: 2rem;
   --space-12: 3rem;
 
-  /* 🔠 Font Sizes */
+  /* Font Sizes */
   --font-xs: 0.75rem;
   --font-sm: 0.875rem;
   --font-base: 1rem;
@@ -22,7 +22,7 @@
   --font-xl: 1.25rem;
   --font-2xl: 1.5rem;
 
-  /* 📱 Breakpoints (Optional reference) */
+  /* Breakpoints */
   --break-sm: 640px;
   --break-md: 768px;
   --break-lg: 1024px;
