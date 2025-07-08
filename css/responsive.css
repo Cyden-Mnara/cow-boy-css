@@ -1,0 +1,32 @@
+/* responsive.css */
+
+/* Small devices: min-width 640px */
+@media (min-width: var(--break-sm)) {
+  .sm\:flex { display: flex; }
+  .sm\:flex-row { flex-direction: row; }
+  .sm\:grid-cols-2 { grid-template-columns: repeat(2, 1fr); }
+  .sm\:p-4 { padding: var(--space-4); }
+  .sm\:gap-4 { gap: var(--space-4); }
+  .sm\:text-lg { font-size: var(--font-lg); }
+}
+
+/* Medium devices: min-width 768px */
+@media (min-width: var(--break-md)) {
+  .md\:flex { display: flex; }
+  .md\:flex-row { flex-direction: row; }
+  .md\:grid-cols-3 { grid-template-columns: repeat(3, 1fr); }
+  .md\:p-8 { padding: var(--space-8); }
+  .md\:gap-8 { gap: var(--space-8); }
+  .md\:text-xl { font-size: var(--font-xl); }
+}
+
+/* Large devices: min-width 1024px */
+@media (min-width: var(--break-lg)) {
+  .lg\:flex { display: flex; }
+  .lg\:flex-row { flex-direction: row; }
+  .lg\:grid-cols-4 { grid-template-columns: repeat(4, 1fr); }
+  .lg\:p-12 { padding: var(--space-12); }
+  .lg\:gap-8 { gap: var(--space-8); }
+  .lg\:text-2xl { font-size: var(--font-2xl); }
+}
+

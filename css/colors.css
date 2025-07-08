@@ -1,0 +1,12 @@
+.bg-primary {
+  background-color: var(--color-primary);
+  color: var(--color-white);
+}
+
+.bg-secondary {
+  background-color: var(--color-secondary);
+  color: var(--color-white);
+}
+
+.text-primary { color: var(--color-primary); }
+.text-white { color: var(--color-white); }
